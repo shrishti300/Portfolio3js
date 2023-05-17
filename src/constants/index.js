@@ -24,8 +24,8 @@ import {
     tripguide,
     threejs,
   } from "../assets";
-  import Newlogo from '../assets/company/newlogo.png';
-  
+  import Portfolio from "../assets/Portfolioimg.png";
+
   export const navLinks = [
     {
       id: "about",
@@ -225,7 +225,7 @@ import {
     {
       name: "Moving vehicle number plate detection",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to get information of a moving vehicle by scanning through their camerase ",
       tags: [
         {
           name: "react",
@@ -244,25 +244,25 @@ import {
       source_code_link: "https://github.com/shrishti300/Code_reapers/tree/master",
     },
     {
-      name: "Portfolio Website ",
+      name: "Portfolio Website Using three.js ",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "My portfolio website using three.js, tailwindCSS and React.js. It has information about my work experience and projects ",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "three.js",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "TailwindCSS",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: Portfolio,
+      source_code_link: "https://github.com/shrishti300/Portfolio3js",
     },
   ];
   
