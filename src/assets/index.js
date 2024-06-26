@@ -25,6 +25,13 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import kickdrum from "./company/kickdrum.png";
+import daostruct from "./company/daostruct.png";
+import myequation from "./company/myequation.png";
+import sih from "./sih.jpeg";
+import sdh from "./sdh.jpeg";
+import ibe from "./ibe.jpg";
+import eks from "./eks.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +66,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  kickdrum,
+  daostruct,
+  myequation,
+  sih,
+  sdh,
+  ibe,
+  eks
 };

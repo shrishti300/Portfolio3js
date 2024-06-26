@@ -46,12 +46,15 @@ const About = () => {
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-      >
-        I'm a skilled software frontend developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Angular, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+      > ◦ Experienced full-stack developer with good knowledge of DevOps methodologies.<br/>
+      ◦ Worked on industry-level highly scalable, secured websites and microservice-based applications during
+      internships.<br/>
+      ◦ Hands-on experience with AWS cloud services and extensive expertise in managing multithreading concurrency
+      in operational environments.<br/>
+      ◦ Led the development of DAOStruct, poised to become the world’s largest DAO discovery and investment
+      platform.<br/>
+      ◦ Winner of the Smart India Hackathon 2022 on a national level and recipient of the Special Mention Award in
+      the Smart Digital Hackathon 2022.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
